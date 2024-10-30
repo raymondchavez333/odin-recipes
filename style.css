@@ -2,10 +2,12 @@ h1 {
     background-color: #0077b6;
     text-align: center;
     color: yellow;
+    padding: 10px;
 }
 
 .Lumpia,.Adobo, .Pinakbet {
     font-size: larger;
+    
     
 }
 
